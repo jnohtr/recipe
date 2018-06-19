@@ -1,0 +1,45 @@
+li {
+	display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 1;
+    padding: 1;
+    width: 100px;
+    background-color: #f1f1f1;
+}
+
+a {
+	background-color: gray;
+}
+
+body {
+	background-image: url("https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/mccormick/o/800/old-bay-crab-cakes.ashx?vd=20171018T134136Z&hash=7DE8A07D424EAC310060CC68C1E0E1E9868470FA");
+	background-size: 1500px 1300px;
+	background-repeat: no-repeat;
+	
+}
+p{
+	
+	font-family: 'Indie Flower', cursive;
+
+}
+
+a
+{
+text-decoration: none;
+color: #000000;
+font-family: 'Indie Flower', cursive;
+font-size: medium;
+font-weight: bold;
+letter-spacing: 2px;
+}
+
+div.figure {
+  display: table;
+}
+div.figure p + p {
+  display: table-caption;
+  caption-side: top;
+}
